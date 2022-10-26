@@ -135,5 +135,4 @@ dmypy.json
 video_cache/
 
 #password
-.token.json
-.credentials.json
+*.json
