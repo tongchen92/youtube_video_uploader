@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# virtualenv
+.mypython/
+
+# video cache
+video_cache/
