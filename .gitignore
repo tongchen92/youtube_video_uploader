@@ -133,3 +133,7 @@ dmypy.json
 
 # video cache
 video_cache/
+
+#password
+./token.json
+./credentials.json
